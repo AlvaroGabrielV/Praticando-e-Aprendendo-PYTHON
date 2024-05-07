@@ -70,4 +70,5 @@ while True:
     else:
         print("Opção inválida! Tente Novamente.")
 
-    system("cls")  # Limpa a tela após o usuário selecionar uma opção
+    system("cls")
+    
